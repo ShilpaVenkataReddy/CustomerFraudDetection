@@ -1,5 +1,3 @@
-# CustomerFraudDetection
-Customer Fraud Detection project
 Introduction
 One useful data point in detecting fraud is the account history of a customer.
 
